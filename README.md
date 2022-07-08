@@ -11,7 +11,7 @@
     <br />
     <a href="https://dashlook.app">Download</a>
     ·
-    <a href="https://github.com/dashlook/dashloook/issues">Report Bug</a>
+    <a href="https://github.com/dashlook/dashlook/issues">Report Bug</a>
     ·
     <a href="https://github.com/dashlook/dashlook/issues">Request Feature</a>
     <br />
@@ -24,7 +24,7 @@
     <p align="center">
         Find your owned repositories and quickly open them in the browser for further action.
     </p>
-    <img src="assets/features-search.png" alt="Search Repositories and Merge requests" width="528" height="375" align="center" style="border-radius:10px">
+    <img src="assets/features-search.png" alt="Search Repositories and Merge requests" width="528" height="375" align="center">
 </div>
 
 <h3 align="center">All in a single place </h3>
@@ -32,7 +32,7 @@
     <p align="center">
         Add your GitHub, BitBucket, or GitLab accounts (self-hosted and enterprise included). Have multiple? Add as much as you need. 
     </p>
-    <img src="assets/features-accounts.png" alt="Configure multiple account providers" width="528" height="391" align="center" style="border-radius:10px">
+    <img src="assets/features-accounts.png" alt="Configure multiple account providers" width="528" height="391" align="center">
 </div>
 
 <h3 align="center">All in a single place </h3>
@@ -42,10 +42,10 @@
         <br/>
         Choose between light and dark, switch off transparency, or change accent colors - it's all inherited from your system preferences.
     </p>
-    <img src="assets/features-native.png" alt="Light and dark themes" width="528" height="375" align="center" style="border-radius:10px">
+    <img src="assets/features-native.png" alt="Light and dark themes" width="528" height="375" align="center">
 </div>
 
 <h3 align="center">Start your free 30-day trial today</h3>
 <p align="center">
-    <a href="https://dashlook.app" align="center" style="color:#fff;background-color:#0d659d;padding:10px 15px">Download</a>
+    <a href="https://dashlook.app" align="center">⚡️ Download ⚡️</a>
 </p>
