@@ -45,7 +45,7 @@
     <img src="assets/features-native.png" alt="Light and dark themes" width="528" height="375" align="center">
 </div>
 
-<h3 align="center">Start your free 30-day trial today</h3>
+<h3 align="center">Experience it yourself for free</h3>
 <p align="center">
     <a href="https://dashlook.app" align="center">⚡️ Download ⚡️</a>
 </p>
