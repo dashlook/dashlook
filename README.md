@@ -19,7 +19,7 @@
 </div>
 
 <h2 align="center">Features</h3>
-<h3 align="center">Search and Launch</h3>
+<h3 align="center">Repositories & Pull requests</h3>
 <div align="center">
     <p align="center">
         Find your owned repositories and quickly open them in the browser for further action.
@@ -27,7 +27,7 @@
     <img src="assets/features-search.png" alt="Search Repositories and Merge requests" width="528" height="375" align="center">
 </div>
 
-<h3 align="center">All in a single place </h3>
+<h3 align="center">Multiple Git providers</h3>
 <div align="center">
     <p align="center">
         Add your GitHub, BitBucket, or GitLab accounts (self-hosted and enterprise included). Have multiple? Add as much as you need. 
@@ -35,7 +35,7 @@
     <img src="assets/features-accounts.png" alt="Configure multiple account providers" width="528" height="391" align="center">
 </div>
 
-<h3 align="center">All in a single place </h3>
+<h3 align="center">Native experience</h3>
 <div align="center">
     <p align="center">
         Feel right at home with a natively built app that is lightweight and fast.
